@@ -1,7 +1,9 @@
 /*  //<>// //<>// //<>//
  PROJECT - Chess
  AUTHOR - Jasdeep Singh
- 
+ REFRENCES - chess piece symbols
+             https://www.pinclipart.com/pindetail/hRbwim_file-pieces-sprite-wikimedia-chess-pieces-png-clipart/
+             
  Note : The board keeps track of the all the pieces during the play. All the pieces that are
  moved are moved with respect to that board. That is, going downwards increases the x value
  and going right increases y value, as it happens in a 2D array. 
